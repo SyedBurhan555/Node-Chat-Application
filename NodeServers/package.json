@@ -9,6 +9,7 @@
   "author": "Syed Burhan Uddin",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "socket.io": "^4.6.2"
   }
 }
